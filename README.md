@@ -5,8 +5,9 @@
 ### App Preview :
 
 <div align="center">
-![](https://github.com/JaiPrabhu03/Reminder_Application/blob/aa2c32ff95ba356b74353444289d5456fae93812/React%20App%20-%20Google%20Chrome%202023-04-14%2003-17-01.gif)
 </div>
+<img src="https://raw.githubusercontent.com/JaiPrabhu03/Reminder_Application/main/React%20App%20-%20Google%20Chrome%202023-04-14%2003-17-01.gif"/>
+
 
 #
 
